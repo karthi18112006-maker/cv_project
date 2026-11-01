@@ -1,0 +1,48 @@
+{
+    "resolution": {
+        "width": 1280,
+        "height": 720
+    },
+    "gate1_y": 324,
+    "gate2_y": 540,
+    "gate1_y_ratio": 0.45,
+    "gate2_y_ratio": 0.75,
+    "distance_meters": 20.0,
+    "speed_limit_kmh": 60.0,
+    "homography_points": [
+        [
+            448,
+            324
+        ],
+        [
+            832,
+            324
+        ],
+        [
+            1152,
+            648
+        ],
+        [
+            128,
+            648
+        ]
+    ],
+    "homography_ratios": [
+        [
+            0.35,
+            0.45
+        ],
+        [
+            0.65,
+            0.45
+        ],
+        [
+            0.9,
+            0.9
+        ],
+        [
+            0.1,
+            0.9
+        ]
+    ]
+}
